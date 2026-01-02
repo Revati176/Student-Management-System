@@ -177,4 +177,16 @@ public class StudentController {
 	{
 		return "jobbatch";
 	}
+	
+	@RequestMapping("skills")
+	public String skillbatch()
+	{
+		return "skillbatch";
+	}
+	
+	@RequestMapping("contact")
+	public String contact()
+	{
+		return "contact";
+	}
 }

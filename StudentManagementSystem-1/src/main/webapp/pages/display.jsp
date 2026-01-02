@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>CJC Institute</title>
+<title>ABC Institute</title>
 
 <style>
     body {
@@ -145,7 +145,7 @@
         <div class="inner-links">
             <a href="contact">Contact Us</a>
           
-            <a href="#">Location</a>
+          
         </div>
     </div>
 
